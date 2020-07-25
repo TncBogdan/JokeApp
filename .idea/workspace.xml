@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c66746b-583d-409f-b4ad-44b2d52ceaa6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../2020_24_3_VendingMachine/gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../2020_24_3_VendingMachine/target/classes/META-INF/2020_24_3_VendingMachine.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.07.2020_ChatMessage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.07.2020_ChatMessage/.idea/4.07.2020_ChatMessage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.07.2020_ChatMessage/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../4.07.2020_ChatMessage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab200-apex-app.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab200-completed-app.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab200-plsql-check.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab200-plsql-nocheck.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab300-apex-app.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab300-mlsql.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab300-new-select.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab300-view.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab400-encrypt-detail.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab400-encryptedts.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab400-redact-policy.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab400-redact-schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab500-application.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab500-completed-app.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab500-java-page-load.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/lab500-oac-region-source.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../APEX/APEX_LABS_SCRIPTS-OAC_v1/traininghistory.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/.idea/Algoritmi.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/META-INF/Algoritmi.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/Fibonacci.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/First1000NPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/FirstNPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/GCD.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/Gathering.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/InverseWrittenNumber.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/IsPrime.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/MinMaxAvg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/NFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/Palidrom.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/RecursionFactorial.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/StearStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/SumFirstN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/out/production/Algoritmi/com/tnc/TablaInmultirii.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/First1000NPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/FirstNPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/GCD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/Gathering.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/NFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/StearStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Algoritmi/src/main/java/com/tnc/TablaInmultirii.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/4.07.2020_ChatMessage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/4.07.2020_ChatMessage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/app/ChatApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/dependencyInjection/DIContainer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/dependencyInjection/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/dependencyInjection/TextService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/dependencyInjection/TextServiceImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/factories/TimeLoggerFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/imageFileEditor/GifFileEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/imageFileEditor/ImageFileEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/imageFileEditor/JpgFileEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/imageFileEditor/PngFileEditor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/imageFileProcessor/ImageFileProcessor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/interceptor/Audited.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/interceptor/AuditedInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/loggers/TimeLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/qualifiers/GifFileEditorQualifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/qualifiers/JpgFileEditorQualifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/qualifiers/PngFileEditorQualifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/di/service/ChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/json/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/json/PersonBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/json/PersonWriter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/rest/ChatController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/rest/ChatRestApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/java/com/tnc/rest/ChatService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/main/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/src/test/resources/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/app/ChatApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/dependencyInjection/DIContainer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/dependencyInjection/Text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/dependencyInjection/TextService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/dependencyInjection/TextServiceImplementation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/factories/TimeLoggerFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/imageFileEditor/GifFileEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/imageFileEditor/ImageFileEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/imageFileEditor/JpgFileEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/imageFileEditor/PngFileEditor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/imageFileProcessor/ImageFileProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/interceptor/Audited.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/interceptor/AuditedInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/loggers/TimeLogger.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/qualifiers/GifFileEditorQualifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/qualifiers/JpgFileEditorQualifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/qualifiers/PngFileEditorQualifier.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/di/service/ChatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/json/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/json/PersonBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/json/PersonWriter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/rest/ChatController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/rest/ChatRestApp.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/classes/com/tnc/rest/ChatService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/4.07.2020_ChatMessage/target/test-classes/META-INF/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/Hibernate1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/src/main/java/com/tnc/EmployeeEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/src/main/java/com/tnc/HibernateUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/Hibernate1/src/main/java/com/tnc/TestHibernate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/JavaServerFace.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/src/main/java/com/tnc/HelloBean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/JavaServerFace/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/WebSocket.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/WebSocket/src/main/java/com/tnc/HelloEndpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChatMessage/untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Ciprian/PatientPortal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/Swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/arrayList/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparable/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparator/MultipleFieldsCompare/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparator/SortByName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparator/SortByRollNo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/comparator/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/complexity/BigO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/deque/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/linkList/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/linkList/LinkListMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/linkList/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/map/HashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/queue/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/queue/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortPractice/FrequencyOfElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/stack/DynamicMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/stack/DynamicStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/stack/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/src/main/java/com/tnc/stack/Stack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/Swap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/arrayList/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparable/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparable/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparator/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparator/MultipleFieldsCompare/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparator/SortByName.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparator/SortByRollNo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/comparator/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/complexity/BigO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/deque/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/linkList/LinkList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/linkList/LinkListMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/linkList/Node.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/map/HashMap.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/queue/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/queue/Queue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/queue/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortPractice/FrequencyOfElements.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortingAlgorithms/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortingAlgorithms/InsertionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortingAlgorithms/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortingAlgorithms/QuickSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortingAlgorithms/SelectionSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/sortingAlgorithms/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/stack/DynamicMain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/stack/DynamicStack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/stack/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/com/tnc/stack/Stack.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/META-INF/Collection.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/Merge_sort_algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/src/main/java/com/tnc/sortingAlgorithms/bubble-sort-algorithm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collection/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/DbSchoolAdminMySQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/src/main/java/com/tnc/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdminMySQL/target/classes/com/tnc/App.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/DbSchoolAdministrator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/DbSchoolAdministrator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/out/production/DbSchoolAdministrator/com/tnc/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/out/production/DbSchoolAdministrator/com/tnc/Course.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/out/production/DbSchoolAdministrator/com/tnc/Group.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/out/production/DbSchoolAdministrator/com/tnc/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/out/production/DbSchoolAdministrator/com/tnc/Teacher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/src/main/java/com/tnc/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/src/main/java/com/tnc/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/src/main/java/com/tnc/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/src/main/java/com/tnc/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DbSchoolAdministrator - Copy/src/main/java/com/tnc/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/src/main/java/com/tnc/DependencyInjectionApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DependencyInjection/src/test/java/com/tnc/DependencyInjectionApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/PomXML_ForSpring.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/PersonRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/PersonServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/greetings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternSpringMVC/ex_2/result.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatterns" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DesignPatternsForTestIng" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Docker/doodle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/HelloMaven.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/cd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HelloMaven/src/main/java/HelloMaven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HomeWorksSDA/Edabit/src/main/java/endava/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/libraries/cn_bestwu_hibernate_core_5_0_11_specid.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/libraries/com_google_code_maven_play_plugin_org_hibernate_hibernate_core_5_2_10_Final_patched_play_1_5_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/libraries/mysql_mysql_connector_java_8_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/Hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/antlr-2.7.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/dom4j-1.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/geronimo-jta_1.1_spec-1.1.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/hibernate-commons-annotations-5.0.1.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/hibernate-core-5.0.11.specid.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/jandex-2.0.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/javassist-3.18.1-GA.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/jboss-logging-3.3.0.Final.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/mysql-connector-java-8.0.19.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/protobuf-java-3.6.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/src/main/java/com/tnc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/src/main/java/com/tnc/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Hibernate/xml-apis-1.0.b2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/JDBC/JDBC.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/JDBC/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/JDBC/src/main/java/com/tnc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Spring/Spring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/Spring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/out/artifacts/JDBC_jar/JDBC.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/out/production/Hibernate/META-INF/Hibernate.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/out/production/Hibernate/com/tnc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/out/production/Hibernate/com/tnc/Person.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/out/production/Hibernate/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/out/production/JDBC/com/tnc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JDBCHibernateSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/JSP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JSP/JSP" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/Bucket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/Coin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/NotFullPaidException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/NotSufficientChangeException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/SoldOutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/VendingMachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/VendingMachineFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/main/java/vendingMachine/VendiongMachineImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/src/test/java/VendingMachineTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/Bucket.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/Coin.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/Inventory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/NotFullPaidException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/NotSufficientChangeException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/SoldOutException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/VendingMachine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/VendingMachineFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/classes/vendingMachine/VendiongMachineImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyVendingMachine/target/test-classes/VendingMachineTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PatientPortal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/src/main/java/com/tnc/RentApartmentApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/src/main/java/com/tnc/ServletInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RentApartment/src/test/java/com/tnc/RentApartmentApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SchoolManagementSystem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/SolarSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/src/main/java/com/tnc/Challenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/src/main/java/com/tnc/HeavenlyBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/src/main/java/com/tnc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/target/classes/com/tnc/Challenge.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/target/classes/com/tnc/HeavenlyBody.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SolarSystem/target/classes/com/tnc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/Hibernate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/src/main/java/com/tnc/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/src/main/java/com/tnc/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/src/main/java/com/tnc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/src/main/resources/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/target/classes/META-INF/persistence.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/target/classes/com/tnc/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/target/classes/com/tnc/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sorina/Hibernate/target/classes/com/tnc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/Pet-clinic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/src/main/java/com/tnc/firstApp/FirstAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring course/firstApp/src/test/java/com/tnc/firstApp/FirstAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/Spring1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/controller/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/dao/FakeStudentDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/dao/MongoStudentImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/dao/MySqlDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/dao/StudentDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/src/main/java/com/tnc/service/StudentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/Spring1-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/Spring1-1.0-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/META-INF/Spring1.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/controller/StudentController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/FakeStudentDaoImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/FakeStudentDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/MongoStudentImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/MongoStudentImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/MySqlDaoImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/MySqlDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/dao/StudentDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/entity/Student.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/classes/com/tnc/service/StudentService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Spring1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/SpringAppApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/controller/PersonController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/dao/FakePersonDataAccessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/dao/PersonDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/dao/PersonDataAccessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/datasource/PostgresDatasource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/java/com/tnc/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/main/resources/db/migration/V1__PersonTable.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringApp/src/test/java/com/tnc/SpringAppApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/SpringBoot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/com/tnc/CourseApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/com/tnc/hello/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/com/tnc/topic/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/com/tnc/topic/TopicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/src/main/java/com/tnc/topic/TopicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/target/classes/com/tnc/CourseApi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/target/classes/com/tnc/hello/HelloController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/target/classes/com/tnc/topic/Topic.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/target/classes/com/tnc/topic/TopicController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringBoot/target/classes/com/tnc/topic/TopicService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/derby.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/Courses/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/Courses/CourseController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/Courses/CourseRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/Courses/CourseService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/SpringDbApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/topic/Topic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/topic/TopicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/topic/TopicRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/java/com/tnc/topic/TopicService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SpringDB/src/test/java/com/tnc/SpringDbApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/StudentDataApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StudentDataApp/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/dictionaries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/libraries/junit_junit_4_13.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/TDD_ISBN_Generator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/target/classes/META-INF/TDD_ISBN_Generator.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/target/classes/com/tnc/ValidationISBN.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/target/test-classes/META-INF/TDD_ISBN_Generator.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/target/test-classes/com/tnc/ExempleTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hibernate/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/src/main/java/com/tnc/simpleDb/SimpleDbApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../simpleDb/src/test/java/com/tnc/simpleDb/SimpleDbApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../solid" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DependencyInjection/src/main/java/com/tnc/controllers/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DependencyInjection/src/main/java/com/tnc/controllers/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TDD_ISBN_Generator/src/test/java/com/tnc/ExempleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TDD_ISBN_Generator/src/test/java/com/tnc/ExempleTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="ProjectId" id="1fB8j9vvVwbFVlEpr5W5WC817TU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.language.Kotlin.scripting" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c66746b-583d-409f-b4ad-44b2d52ceaa6" name="Default Changelist" comment="" />
+      <created>1595680257889</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595680257889</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="36" key="CommitChangelistDialog2" timestamp="1595684143855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="36" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1595684143855" />
+  </component>
+</project>
